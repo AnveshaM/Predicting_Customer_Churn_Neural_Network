@@ -20,3 +20,7 @@ Jupyter Notebook Contents -
 6. Plotting ROC curves 
 7. Voting Classifier (Additional Technique to get the best out of the two models)
 
+Repository Contents :
+1. Churn_Modelling.csv - CSV file containing the dataset.
+2. Predicting_Customer_Churn_Neural_Network.html - HTML version of the Jupyter Notebook 
+
